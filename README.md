@@ -18,7 +18,7 @@ I build production backends and AI-powered products end to end: data capture pip
 
 ## Featured
 
-- **[Tasks API](https://github.com/JoMaCaCha/crehana-tasks-api):** a REST API built with FastAPI and async SQLAlchemy. Highlights:
+- **[Tasks API](https://github.com/JoMaCaCha/tasks-api-clean-architecture):** a REST API built with FastAPI and async SQLAlchemy. Highlights:
   - hexagonal (ports and adapters) architecture;
   - JWT with refresh-token rotation, role-based access control and a transactional outbox;
   - about 98% test coverage, with unit, integration and E2E tests;
