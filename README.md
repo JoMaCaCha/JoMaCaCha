@@ -23,7 +23,7 @@ I build production backends and AI-powered products end to end: data capture pip
   - JWT with refresh-token rotation, role-based access control and a transactional outbox;
   - about 98% test coverage, with unit, integration and E2E tests;
   - CI on GitHub Actions with Trivy image scanning;
-  - 29 documented architecture decisions.
+  - 31 documented architecture decisions.
 - **Publication:** *Comparison of Current Deep Convolutional Neural Networks for the Segmentation of Breast Masses in Mammograms*, IEEE Access, 2021 ([DOI](https://doi.org/10.1109/ACCESS.2021.3127862)).
 
 Most of my work lives in private repositories for employers and clients.
